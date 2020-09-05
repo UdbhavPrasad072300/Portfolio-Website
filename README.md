@@ -1,4 +1,4 @@
 # udbhavprasad.github.o
 Portfolio Website <br>
 
-<a href="https://udbhavprasad072300.github.io/" target="_blank">udbhavprasad072300.github.io</a>
+<a href="https://udbhavprasad.com/" target="_blank">udbhavprasad.com</a>
