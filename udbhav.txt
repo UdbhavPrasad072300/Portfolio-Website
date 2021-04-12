@@ -1,14 +1,14 @@
 <span id="a">udbhavprasad@portfolio</span>:<span id="b">~</span><span id="c">$</span> cd UdbhavPrasad/<!-- kjsdfhkjdhsfkjdshfkj -->IntroduceUdbhav
 <span id="a">udbhavprasad@portfolio</span>:<span id="b">~</span><span id="c">$</span> tail -f <!-- kjsdfhkjdhsfkjdshfkj -->udbhav.txt<br/><br/>
 
-My favorite quote, "<span id="k">shut up and work</span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k">quotes are a waste of time</span>". <!-- sjkfhskjf -->
 
 Hey There! I am Udbhav Prasad.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently pursuing my Bachelor's in Computer Science at Ryerson University.</p>
-<p> Download my <a target="_blank" href="assets/files/UdbhavPrasad-Resume.pdf">RESUME</a></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> View my <a target="_blank" href="assets/files/UdbhavPrasad-Resume.pdf">RESUME</a></p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> Yet to be filled</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> You can visit my other profiles, here: <br> <a target=”_blank” href="https://www.linkedin.com/in/udbhav-prasad-1506b7192/">LinkedIn</a> <br> <a target=”_blank” href="https://github.com/UdbhavPrasad072300">GitHub</a> <br> <a target=”_blank” href="https://www.kaggle.com/udbhavprasad1">Kaggle</a>.</p>
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: uprasad@ryerson.ca">uprasad@ryerson.ca</a> or call me at <span id="k">647-294-0345</span>.
 
-<p>Cheers!</p>
+<p>Hope to hear from ya!</p>
 <span id="a">udbhavprasad@portfolio</span>:<span id="b">~</span><span id="c">$</span> exit
