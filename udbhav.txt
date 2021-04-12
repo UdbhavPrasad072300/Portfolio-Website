@@ -11,4 +11,4 @@ Hey There! I am Udbhav Prasad.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: uprasad@ryerson.ca">uprasad@ryerson.ca</a> or call me at <span id="k">647-294-0345</span>.
 
 <p>Cheers!</p>
-<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">udbhavprasad@portfolio</span>:<span id="b">~</span><span id="c">$</span> exit
