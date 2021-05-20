@@ -97,7 +97,7 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=3;
+Typer.speed=30;
 Typer.file="udbhav.txt";
 Typer.init();
  
