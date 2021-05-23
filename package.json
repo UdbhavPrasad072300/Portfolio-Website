@@ -9,7 +9,7 @@
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "start": "vite preview"
+        "start": "vite preview --port 80"
     },
     "dependencies": {
         "three": "^0.128.0",
