@@ -1,15 +1,16 @@
 {
-  "name": "portfolio",
-  "version": "0.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^2.3.3"
-  },
-  "dependencies": {
-    "three": "^0.128.0"
-  }
+    "name": "portfolio",
+    "version": "0.0.0",
+    "scripts": {
+        "start": "node main.js",
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "devDependencies": {
+        "vite": "^2.3.3"
+    },
+    "dependencies": {
+        "three": "^0.128.0"
+    }
 }
