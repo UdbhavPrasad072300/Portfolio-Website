@@ -10,9 +10,9 @@
         "./UdbhavPrasad-Resume.pdf"
     ],
     "scripts": {
-        "start": "vite",
+        "dev": "vite",
         "build": "vite build",
-        "dev": "vite preview"
+        "start": "vite preview"
     },
     "dependencies": {
         "three": "^0.128.0",
