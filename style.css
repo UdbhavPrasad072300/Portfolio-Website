@@ -42,7 +42,7 @@ canvas {
 
 header {
     background: var(--dark-bg);
-    grid-column: 2 / span 5;
+    grid-column: 2 / span 4;
     font-size: 2.5rem;
     padding: 2rem;
     margin-bottom: var(--spacing);
@@ -57,7 +57,15 @@ section {
     margin-bottom: var(--spacing);
 }
 
-.left {
+.projects {
+    grid-column: 2 / 8;
+}
+
+.work {
+    grid-column: 2 / 10;
+}
+
+.skills {
     grid-column: 2 / 10;
 }
 
